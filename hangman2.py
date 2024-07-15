@@ -1,6 +1,6 @@
 #STEP 1 
-from hangman_words import word_list
 
+word_list = ["aardvark", "baboon", "camel"]
 stages = ['''
   +---+
   |   |
